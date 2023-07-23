@@ -1,0 +1,13 @@
+{
+  "templates": [
+    {
+      "name": "Elden Ring",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/892222338475655209/1132617096447131758/elden_ring.jpg"
+      ],
+      "x": 822,
+      "y": -992
+    }
+  ],
+  "blacklist": []
+}
